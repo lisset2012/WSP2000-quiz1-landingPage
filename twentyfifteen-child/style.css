@@ -1,0 +1,19 @@
+/*
+Theme Name: Twenty Fifteen Child
+Template: twentyfifteen
+Description: >- Twenty Fifteen Child Theme
+Version: 1.0.0
+*/
+
+.entry-header{
+    padding: 0 5%;
+}
+
+.entry-title, .widecolumn h2{
+    
+    margin-bottom: 0.5em;
+}
+
+.entr-content, .entry-summary{
+    padding: 0 5% 10%;
+}
